@@ -1,11 +1,13 @@
-Purpose: 
+Purpose: It's a very simple gathering and presenting data program. Asks for a set of information about 3 "employees" and then
+displays that info in a formatted table.
 
-Software: 
+Software: onlinegdb.com, C language
 
-Why: 
+Why: Was made to check memory on basic C functions like printf, scanf, and also do a bit of dabbling in string formatting.
 
-Who: 
+Who: Me, Hayden Walker
 
-Time: 
+Time: Took around an hour and a half of coding time
 
-Notes: 
+Notes: First time messing with string formatting. It was interesting and it appeals to an organizational side of me, but I need a 
+constant list up on another tab to actually be useful with it. 
