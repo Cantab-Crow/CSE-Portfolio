@@ -1,0 +1,12 @@
+Purpose: Gather information on students; names, roll #, and grades; and then display that information back and give stats on the grades.
+
+Software: onlinegdb.com, C language
+
+Why: To better understand using arrays, especially string arrays.
+
+Who: Me, Hayden Walker
+
+Time: Took around 2 1/2 hours of coding time. 
+
+Notes: String arrays are... annoying in C. Took me too long to realize from someone else how the string arrays actually work, but still managed in the end. 
+I'm going to loathe using string arrays in the future based on this experience. I'll be better, sure, but I'll still hate it. 
